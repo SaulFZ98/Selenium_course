@@ -1,0 +1,6 @@
+escribiendo en el campo //input[contains(@name,'username')] el textoAdmin 
+escribiendo en el campo //input[contains(@type,'password')] el textoadmin123 
+Dando click en //button[@type='submit'][contains(.,'Login')] -->//button[@type='submit'][contains(.,'Login')] 
+entrando al sistema
+entrando al sistema 1 
+Dando click en //a[@href='/web/index.php/admin/viewAdminModule'] -->//a[@href='/web/index.php/admin/viewAdminModule'] 

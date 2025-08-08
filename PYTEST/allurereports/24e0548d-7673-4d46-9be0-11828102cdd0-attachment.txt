@@ -1,0 +1,8 @@
+escribiendo en el campo //input[contains(@id,'username')] el textoAdmin 
+escribiendo en el campo //input[contains(@id,'password')] el textoadmin123 
+Dando click en //button[contains(@id,'submit')] -->//button[contains(@id,'submit')] 
+entrando al sistema dos
+entrando al sistema dos 
+Dando click en //a[@href='https://practicetestautomation.com/courses/'] -->//a[@href='https://practicetestautomation.com/courses/'] 
+saliendo del sistema prueba dos ok 
+saliendo del sistema prueba uno ok 
